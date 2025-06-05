@@ -32,7 +32,7 @@ bash script/niv2_exp_baseline.sh
 
 ### 4. Inference on All Permutations
 
-You can run inference on all permutations directly within the training environment:
+You can also run inference directly during the training experiments.
 
 ```bash
 bash script/eval.sh
