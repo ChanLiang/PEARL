@@ -51,7 +51,7 @@ bash script/eval_manyshot.sh
 
 ## Citation
 
-If you find our work useful, please consider citing our paper:
+If you find our work useful, please cite our paper:
 
 ```bibtex
 @inproceedings{chen2025pearl,
