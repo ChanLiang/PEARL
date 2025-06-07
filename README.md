@@ -1,6 +1,16 @@
-# PEARL
 
-Implementation for our ICLR 2025 paper [PEARL: Towards Permutation-Resilient LLMs](https://openreview.net/forum?id=txoJvjfI9w).
+<h1 align="center">
+PEARL: Towards Permutation-Resilient LLMs
+</h1>
+
+<p align="center">
+  <a href="https://openreview.net/pdf?id=txoJvjfI9w"><img src="https://img.shields.io/badge/OpenReview-txoJvjfI9w-blue" alt="Paper"></a>
+  <a href="https://github.com/ChanLiang/PEARL"><img src="https://img.shields.io/badge/GitHub-Code-black?logo=github" alt="GitHub"></a>
+  <a href="https://iclr.cc"><img src="https://img.shields.io/badge/Pub-ICLR'25-green" alt="ICLR 2025 Publication"></a>
+</p>
+
+Implementation for our ICLR 2025 paper **[PEARL: Towards Permutation-Resilient LLMs](https://openreview.net/forum?id=txoJvjfI9w)**.
+
 
 **PEARL** is an instruction tuning method that helps LLMs better handle set-structured inputs with order-independent elements — making them more robust in tasks such as in-context learning (ICL) and retrieval-augmented generation (RAG).
 
