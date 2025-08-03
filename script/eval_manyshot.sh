@@ -6,7 +6,7 @@ debug=True
 # debug=False
 
 use_instruction=True
-test_task_size=50 # 每个task的大小，需要考虑分到每个shot上有多少
+test_task_size=50 
 
 batch_size=8
 
